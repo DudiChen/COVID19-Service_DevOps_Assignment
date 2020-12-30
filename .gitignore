@@ -1,0 +1,6 @@
+app/deaths_peak/__pycache__/*
+app/new_cases_peak/__pycache__/*
+app/pattern/__pycache__/*
+app/recovered_peak/__pycache__/*
+service/__pycache__/*
+service/covid_api/__pycache__/*
