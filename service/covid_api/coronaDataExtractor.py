@@ -16,6 +16,7 @@ def check_status():
 
 
 def get_historical_data_by_country(country: str, last_days=30):
+    last_days += 1 # Adding extra day slack for reducing daily data later
     country_data = {}
     req_url = serverURL + historicalRequestSuffix + country
     req_params = {'lastdays': last_days}
