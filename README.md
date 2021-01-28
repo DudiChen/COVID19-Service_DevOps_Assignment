@@ -16,7 +16,7 @@ https://github.com/DudiChen/COVID19_DevOpsAssignment.git
 Server-URL: https://corona.lmao.ninja/v2/ <br>Docs: https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest
 
 # Usage:
-## Jenkins:
+## Instructions for executing via Jenkins:
 Please make sure you have Jenkins server installed and ready. <br>See related info: https://www.jenkins.io/doc/book/installing/
 1. In Jenkins; Create a new 'Pipeline' job with a meaningful name.
 2. Under 'Advanced Project Options'; set Pipeline Definition to 'Pipeline script from SCM'.
