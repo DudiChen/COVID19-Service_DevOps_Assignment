@@ -10,7 +10,7 @@ David Chen <br> dudi.chen@gmail.com
 
 
 ### GitHub Repository
-https://github.com/DudiChen/COVID19_DevOpsAssignment.git
+https://github.com/DudiChen/COVID19-Service_DevOps_Assignment.git
 
 ### COVID-19 External API used
 Server-URL: https://corona.lmao.ninja/v2/ <br>Docs: https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest
